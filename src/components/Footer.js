@@ -37,7 +37,7 @@ export default function Footer() {
       <p className="mt-3">
         Created with ❤️ by <span className="font-bold">Kavitha</span>
       </p>
-      <p>Copyright © 2023 Portfolio. All Rights Reserved</p>
+      <p>Copyright © 2023 Portfolio.  All Rights Reserved</p>
     </div>
   );
 } 
