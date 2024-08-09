@@ -40,6 +40,4 @@ export default function Footer() {
       <p>Copyright © 2023 Portfolio. All Rights Reserved</p>
     </div>
   );
-}
-git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
+} 
